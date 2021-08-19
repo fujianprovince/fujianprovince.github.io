@@ -29,5 +29,15 @@ FujianChen@2980.com
 FujianChen@aliyun.com 
 Fujian@ymail.cn
 
+## 东南学苑链接
+### 官网
+https://fujianprovince.wixsite.com/china
+### 旧官网
+https://www.kdocs.cn/l/s7YsGOupX
+### bilibili账号
+https://space.bilibili.com/631911990
+### 线上图书馆
+http://www.360doc.com/userhome/74806152
+
 ## 好友链接
 暂时还没有，想对接链接的欢迎找我联系。
