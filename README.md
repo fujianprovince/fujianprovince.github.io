@@ -16,6 +16,7 @@ FujianChenZhengyi
 ### 电子邮箱
 www.ChenZhengyi@outlook.com（Apple ID） 
 ChenZhengyi@protonmail.com 
+fujianprovince@qq.com
 1847210433@qq.com
 fujianprovince@foxmail.com
 www.chen@tutanota.com 
