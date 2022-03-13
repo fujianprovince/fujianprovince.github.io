@@ -40,7 +40,7 @@ Fujian@ymail.cn
 
 ## 所创立之组织“东南学苑”的链接
 ### 官网
-https://fujianprovince.wixsite.com/china
+https://fujianprovince.wixsite.com/china （官网最近出现了一些问题而无法访问，期间我的个人博客将同时承担官网的职能。）
 ### 旧官网
 https://www.kdocs.cn/l/s7YsGOupX
 ### bilibili账号
