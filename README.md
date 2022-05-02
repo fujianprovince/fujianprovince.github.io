@@ -52,4 +52,10 @@ http://www.360doc.com/userhome/74806152
 ### 知乎官方账号
 https://www.zhihu.com/people/cc-cp-2
 ## 友情链接
-目前还没有，欢迎想对接链接的朋友找我联系。
+| 站名 | 网址 |
+| --- | --- |
+| One Square Minesweeper | https://onesquareminesweeper.com/ |
+| The Floating QR Code | https://floatingqrcode.com/ |
+| Checkbox Olympics | https://checkboxolympics.com/ |
+| The Long Doge Challenge | https://longdogechallenge.com/ |
+| Mondrian And Me | https://mondrianandme.com/ |
