@@ -1,4 +1,5 @@
 # 陈郑逸的个人资料
+![Temporary Picture](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wyUo?ver=0f19)
 ## 个人定义
 久经考验的忠诚的共产主义战士，无产阶级革命者，人民的好干部，无为而治特色思想的提出者，中国共产主义青年团团员，东南学苑（Southeast Study Union，简称SSU）创始主席和现任顾问，初中生。
 ## 个人经历
