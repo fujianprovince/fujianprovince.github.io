@@ -39,17 +39,22 @@ FujianChen@aliyun.com
 Fujian@ymail.cn 
 
 ## 东南学苑联系方式
-### QQ群号
+### 官方QQ群
 272326043
-### 官网
-https://fujianprovince.wixsite.com/china （官网最近出现了一些问题而无法访问，期间我的个人博客将同时承担官网的职能。）
-### 原官网
+### 官方QQ账号
+3567828540
+### 官方网站
+https://fujianprovince.wixsite.com/china  
+（官网最近出现了一些问题而无法访问，期间我的个人博客将同时承担官网的职能。）
+### 原官方网站
 https://www.kdocs.cn/l/s7YsGOupX
-### bilibili账号
+### 官方邮箱
+fujianprovince@outlook.com
+### bilibili官方账号
 https://space.bilibili.com/631911990
-### 线上图书馆
+### 360图书馆官方账号
 http://www.360doc.com/userhome/74806152
-### 知乎账号
+### 知乎官方账号
 https://www.zhihu.com/people/cc-cp-2
 
 ## 友情链接
