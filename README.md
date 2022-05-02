@@ -17,26 +17,26 @@ https://theweblog.lofter.com/
 ### 微信号
 FujianChenZhengyi
 ### 电子邮箱
-www.ChenZhengyi@outlook.com（Apple ID）
-fujianprovince@hotmail.com 
-theCommunistParty@hotmail.com 
-thecenterofworld@outlook.com 
-thecenterofworld@hotmail.com 
-ChenZhengyi@protonmail.com 
-fujianprovince@qq.com 
-1847210433@qq.com 
-fujianprovince@foxmail.com 
-www.chen@tutanota.com 
-www.CZY@88.com 
-FujianChenZhengyi@163.com 
-FujianChenZhengyi@126.com 
-FujianChenZhengyi@yeah.net 
-ChenZhengyi@tom.com 
-fjchenzhengyi@sina.com 
-FujianChen@2925.com 
-FujianChen@2980.com 
-FujianChen@aliyun.com 
-Fujian@ymail.cn
+www.ChenZhengyi@outlook.com（Apple ID）  
+fujianprovince@hotmail.com  
+theCommunistParty@hotmail.com  
+thecenterofworld@outlook.com  
+thecenterofworld@hotmail.com  
+ChenZhengyi@protonmail.com  
+fujianprovince@qq.com  
+1847210433@qq.com  
+fujianprovince@foxmail.com  
+www.chen@tutanota.com  
+www.CZY@88.com  
+FujianChenZhengyi@163.com  
+FujianChenZhengyi@126.com  
+FujianChenZhengyi@yeah.net  
+ChenZhengyi@tom.com  
+fjchenzhengyi@sina.com  
+FujianChen@2925.com  
+FujianChen@2980.com  
+FujianChen@aliyun.com  
+Fujian@ymail.cn 
 
 ## 东南学苑联系方式
 ### QQ群号
