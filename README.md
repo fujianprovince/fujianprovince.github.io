@@ -55,8 +55,8 @@ https://www.zhihu.com/people/cc-cp-2
 
 | 站名 | 网址 |
 | --- | --- |
-| One Square Minesweeper | https://onesquareminesweeper.com/ |
-| The Floating QR Code | https://floatingqrcode.com/ |
-| Checkbox Olympics | https://checkboxolympics.com/ |
-| The Long Doge Challenge | https://longdogechallenge.com/ |
-| Mondrian And Me | https://mondrianandme.com/ |
+| One Square Minesweeper | onesquareminesweeper.com |
+| The Floating QR Code | floatingqrcode.com |
+| Checkbox Olympics | checkboxolympics.com |
+| The Long Doge Challenge | longdogechallenge.com |
+| Mondrian And Me | mondrianandme.com |
