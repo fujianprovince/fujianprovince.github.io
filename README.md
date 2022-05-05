@@ -40,20 +40,11 @@ Fujian@ymail.cn
 272326043
 ### 官方QQ账号
 3567828540
-### [官方网站](fujianprovince.wixsite.com/china "fujianprovince.wixsite.com/china")  
+### [官方网站](https://fujianprovince.wixsite.com/china "https://fujianprovince.wixsite.com/china")  
 （官网最近出现了一些问题而无法访问，期间我的个人博客将同时承担官网的职能。）
-### [原官方网站](www.kdocs.cn/l/s7YsGOupX "www.kdocs.cn/l/s7YsGOupX")  
+### [原官方网站](https://www.kdocs.cn/l/s7YsGOupX "https://www.kdocs.cn/l/s7YsGOupX")  
 ### 官方邮箱
 fujianprovince@outlook.com
-### [bilibili官方账号](space.bilibili.com/631911990 "space.bilibili.com/631911990")  
-### [360图书馆官方账号](southeaststudyunion.360doc.com "southeaststudyunion.360doc.com")  
-### [知乎官方账号](www.zhihu.com/people/cc-cp-2 "www.zhihu.com/people/cc-cp-2")  
-## 友情链接
-
-| 站名 | 网址 |
-| --- | --- |
-| One Square Minesweeper | onesquareminesweeper.com |
-| The Floating QR Code | floatingqrcode.com |
-| Checkbox Olympics | checkboxolympics.com |
-| The Long Doge Challenge | longdogechallenge.com |
-| Mondrian And Me | mondrianandme.com |
+### [bilibili官方账号](https://space.bilibili.com/631911990 "https://space.bilibili.com/631911990")  
+### [360图书馆官方账号](https://southeaststudyunion.360doc.com "https://southeaststudyunion.360doc.com")  
+### [知乎官方账号](https://www.zhihu.com/people/cc-cp-2 "https://www.zhihu.com/people/cc-cp-2")  
