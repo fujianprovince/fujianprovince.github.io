@@ -1,11 +1,13 @@
-# 陈郑逸的个人资料
-## [陈郑逸的个人资料-首页](https://fujianprovince.github.io/ "就是本页")  
-## [陈郑逸的个人资料-学习子页面](https://fujianprovince.github.io/study/ "探索学习")  
-## [陈郑逸的个人资料-博物子页面](https://fujianprovince.github.io/natural-history/ "探索博物")  
-## 陈郑逸的个人资料-实验子页面
-## 陈郑逸的个人资料-致父亲子页面
-## 陈郑逸的个人资料-致母亲子页面
-## 陈郑逸的个人资料-同学子页面
+# 陈郑逸领域
+## [陈郑逸领域-首页](https://fujianprovince.github.io/ "就是本页")  
+## [陈郑逸领域-学习子页面](https://fujianprovince.github.io/study/ "探索学习")  
+## [陈郑逸领域-博物子页面](https://fujianprovince.github.io/natural-history/ "探索博物")  
+## 陈郑逸领域-实验子页面
+## 陈郑逸领域-文旅子页面
+## 陈郑逸领域-致父亲子页面
+## 陈郑逸领域-致母亲子页面
+## 陈郑逸领域-同学子页面
+## 陈郑逸领域-评论子页面
 （未附链接的子页面为仍在筹建或涉及隐私的子页面。）
 ![photo](https://imglf6.lf127.net/img/dd1f6af92c6d0d8e/MkQ2N09jTTFRT0J6K3F3OGlhZ29KRnZCcFg2Tll5ZklzWHJkNGZ2bDJvaz0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)
 ## 个人定义
