@@ -6,7 +6,7 @@
 ## 陈郑逸领域-文旅子页面
 ## 陈郑逸领域-致父亲子页面
 ## 陈郑逸领域-致母亲子页面
-## 陈郑逸领域-同学子页面
+## 陈郑逸领域-老师同学子页面
 ## [陈郑逸领域-评论子页面](http://htmlpreview.github.io/?https://github.com/fujianprovince/fujianprovince.github.io/blob/main/comments.html "半成品")  
 （未附链接的子页面为仍在筹建或涉及隐私的子页面。）
 ![photo](https://imglf6.lf127.net/img/dd1f6af92c6d0d8e/MkQ2N09jTTFRT0J6K3F3OGlhZ29KRnZCcFg2Tll5ZklzWHJkNGZ2bDJvaz0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)
