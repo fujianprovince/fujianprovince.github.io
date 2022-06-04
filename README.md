@@ -2,11 +2,12 @@
 ## [陈郑逸领域-首页](https://fujianprovince.github.io/ "就是本页")  
 ## [陈郑逸领域-学习子页面](https://fujianprovince.github.io/study/ "探索学习")  
 ## [陈郑逸领域-博物子页面](https://fujianprovince.github.io/natural-history/ "探索博物")  
-## 陈郑逸领域-实验子页面
+## [陈郑逸领域-实验子页面](https://fujianprovince.github.io/experiments/ "探索实验") 
 ## [陈郑逸领域-文旅子页面](https://fujianprovince.github.io/literature-and-travel/ "探索文旅")  
-## 陈郑逸领域-老师同学子页面
+## [陈郑逸领域-老师同学子页面](https://fujianprovince.github.io/teachers-and-classmates/ "探索老师同学")  
 ## 陈郑逸领域-致父亲子页面
 ## 陈郑逸领域-致母亲子页面
+（未附链接的子页面是涉及隐私而不开放的子页面）
 ![photo](https://imglf6.lf127.net/img/dd1f6af92c6d0d8e/MkQ2N09jTTFRT0J6K3F3OGlhZ29KRnZCcFg2Tll5ZklzWHJkNGZ2bDJvaz0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)
 ## 个人定义
 久经考验的忠诚的共产主义战士，无产阶级革命者，人民的好干部，无为而治特色思想的提出者，中国共产主义青年团团员，东南学苑（Southeast Study Union，简称SSU）创始主席和现任顾问，初中生。
