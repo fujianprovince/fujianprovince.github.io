@@ -7,8 +7,11 @@
 ## [陈郑逸领域-老师同学子页面](https://fujianprovince.github.io/teachers-and-classmates/ "探索老师同学")  
 ## 陈郑逸领域-致父亲子页面
 ## 陈郑逸领域-致母亲子页面
-（未附链接的子页面是涉及隐私而不开放的子页面）
+（未附链接的子页面是涉及隐私而不开放的子页面。）
 ![photo](https://imglf6.lf127.net/img/dd1f6af92c6d0d8e/MkQ2N09jTTFRT0J6K3F3OGlhZ29KRnZCcFg2Tll5ZklzWHJkNGZ2bDJvaz0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)
+![contributions and payment](https://imglf4.lf127.net/img/cd5b50094581642a/MkQ2N09jTTFRT0JLaE1QRm96UUd0NTFmbWpIamZKdGZpbUJOSGthVHdMTT0.png?imageView&thumbnail=1680x0)
+如果你觉得本网站不错，欢迎通过微信扫描以上赞赏码向本网站捐款。你的捐款将成为激励本网站建设的动力！预致谢！  
+(东南学苑受本网站建立者陈郑逸的委托，代收关于本网站的捐款。)  
 ## 个人定义
 久经考验的忠诚的共产主义战士，无产阶级革命者，人民的好干部，无为而治特色思想的提出者，中国共产主义青年团团员，东南学苑（Southeast Study Union，简称SSU）创始主席和现任顾问，初中生。
 ## 个人经历
@@ -22,8 +25,11 @@
 ### 微信号
 FujianChenZhengyi
 ### 电子邮箱
-www.ChenZhengyi@outlook.com（Apple ID）  
+#### 国内常用邮箱（主要来往汉语邮件）
+www.ChenZhengyi@outlook.com（Apple ID） 
+#### 国际常用邮箱（主要来往非汉语邮件）
 fujianprovince@hotmail.com  
+#### 非常用邮箱
 theCommunistParty@hotmail.com  
 thecenterofworld@outlook.com  
 thecenterofworld@hotmail.com  
