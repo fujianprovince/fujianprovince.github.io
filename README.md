@@ -26,15 +26,15 @@
 FujianChenZhengyi
 ### 电子邮箱
 #### 国内常用邮箱（主要来往汉语邮件）
-www.ChenZhengyi@outlook.com（Apple ID） 
-#### 国际常用邮箱（主要来往非汉语邮件）
-fujianprovince@hotmail.com  
+fujianprovince@qq.com  
+#### 国际常用邮箱（主要来往非汉语邮件，同时作为Apple ID）
+www.ChenZhengyi@outlook.com  
 #### 非常用邮箱
+fujianprovince@hotmail.com  
 theCommunistParty@hotmail.com  
 thecenterofworld@outlook.com  
 thecenterofworld@hotmail.com  
 ChenZhengyi@protonmail.com  
-fujianprovince@qq.com  
 1847210433@qq.com  
 fujianprovince@foxmail.com  
 www.chen@tutanota.com  
