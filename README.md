@@ -18,8 +18,8 @@
 2007年5月7日生于福建省莆田市城厢区，童年混迹于莆田市荔城区第二实验幼儿园；过一年半载随家人移居福州，遂迁福建省直屏东幼儿园（两家幼儿园饭菜倒是很香）；漫漫六年间苟活于福州市中山小学，寻清探古，常同小友游于萨镇冰故居（时未修缮，我等称为“鬼屋”）、欧冶池、林则徐出生地乃至周围两三小区，期间同小友创立“东南学苑”；后寄福州第十九中学篱下，未能尽力于学，能为中国共产主义青年团所接纳实在不胜愧赧，终无甚作为。
 ## 我的信条（怎么做）
 本主页网站名下紧贴的一行“追求卓越 唯我独尊”即是，特别说明下“我”泛指中华有知青年一代，以防有歧义。
-## [个人博客](https://theweblog.lofter.com/ "https://theweblog.lofter.com/")  
-## 个人联系方式
+## [我的博客](https://theweblog.lofter.com/ "https://theweblog.lofter.com/")  
+## 我的联系方式
 ### 电话
 189 0024 7679
 ### QQ号
@@ -57,7 +57,7 @@ Fujian@ymail.cn
 ### 官方QQ账号
 3567828540
 ### [官方网站](https://fujianprovince.wixsite.com/china "https://fujianprovince.wixsite.com/china")  
-（官网最近出现了一些问题而无法访问，期间我的个人博客将同时承担官网的职能。）
+（官网最近出现了一些问题而无法访问，期间我的博客将同时承担官网的职能。）
 ### [原官方网站](https://www.kdocs.cn/l/s7YsGOupX "https://www.kdocs.cn/l/s7YsGOupX")  
 ### 官方邮箱
 fujianprovince@outlook.com
