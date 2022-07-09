@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>陈郑逸领域-评论子页面</title>
+</head>
+<body>
+<h1>陈郑逸领域-评论子页面</h1>
+<textarea id="memo" cols="60" rows="10"></textarea>
+<input type="button" value="追加内容" onclick="saveStorage('memo')" />
+<input type="button" value="初始化" onclick="clearStorage('msg')" />
+<hr />
+<p id="msg"></p>
+<script type="text/javascript">
+    function saveStorage(id) {
+        var data = document.getElementById(id).value;
+        var time = new Date().getTime();
+        localStorage.setItem(time,data);
+        console.log("数据已保存");
+        loadStorage('msg');
+    }
+
+    function loadStorage(id) {
+        var result = '<table border="1">';
+        for(var i = 0; i < localStorage.length; i++) {
+            var kes = localStorage.key(i);
+            var value = localStorage.getItem(kes);
+            var date = new Date();
+            date.setTime(kes);
+            var datestr = date.toGMTString();
+            result += '<tr><td>' + value + '</td><td>' + datestr + '</td></tr>'
+        }
+        result += '</table>';
+var target = document.getElementById(id);
+        target.innerHTML = result;
+    }
+
+    function clearStorage() {
+        localStorage.clear();
+        console.log("清除完毕");
+    }
+</script>
+</body>
+</html>
