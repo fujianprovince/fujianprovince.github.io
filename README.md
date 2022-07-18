@@ -66,4 +66,4 @@ fujianprovince@outlook.com
 ### [知乎官方账号](https://www.zhihu.com/people/cc-cp-2 "https://www.zhihu.com/people/cc-cp-2")  
 ### [360图书馆官方账号](https://southeaststudyunion.360doc.com "https://southeaststudyunion.360doc.com")  
 
-## [阅览结束~休闲一下~](https://www.bilibili.com/blackboard/fe/activity-HQjQSdd3L8.html "休闲一下")  
+## > [阅览结束~休闲一下~](https://fujianprovince.github.io/game.html "休闲一下")  
