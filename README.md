@@ -6,6 +6,7 @@
 ## [陈郑逸领域-实验子页面](https://fujianprovince.github.io/experiments/ "探索实验") 
 ## [陈郑逸领域-文旅子页面](https://fujianprovince.github.io/literature-and-travel/ "探索文旅")  
 ## [陈郑逸领域-老师同学子页面](https://fujianprovince.github.io/teachers-and-classmates/ "探索老师同学")  
+## [陈郑逸领域-评论子页面](https://github.com/fujianprovince/fujianprovince.github.io/wiki "发表评论")  
 ## 陈郑逸领域-致父亲子页面
 ## 陈郑逸领域-致母亲子页面
 （未附链接的子页面是涉及隐私而不开放的子页面。）
