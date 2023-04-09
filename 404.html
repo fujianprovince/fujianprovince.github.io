@@ -11,9 +11,9 @@
         <div class="panel-main">
             <div class="panel-main__inner panel-inverted">
                 <div class="panel-main__content">
-                    <a href="https://fujianprovince.github.io/" title="陈郑逸领域"><img src="https://i0.hdslb.com/bfs/face/60e28ea60bff0ddc1f5390e6e00ba8b6d08cf80d.jpg@160w_160h_1c_1s.webp" width="150" alt="头像" class="panel-cover__logo logo"></a>
+                    <a href="https://fujianprovince.github.io/" title="陈郑逸领域"><img src="https://s1.ax1x.com/2023/04/09/ppHjZaF.jpg" width="150" alt="头像" class="panel-cover__logo logo"></a>
                     <hr class="panel-cover__divider">
-                    <p class="panel-cover__description">对不起，你要找的页面迷路了，请点击头像回到网站首页。(＞人＜；)<br><span id="timeout">10</span>秒后将自动跳转首页。</p>
+                    <p class="panel-cover__description">对不起，你要找的页面迷路了，请点击头像回到网站首页。(＞人＜；)</p>
                     <hr class="panel-cover__divider panel-cover__divider--secondary">
                     <p class="footer"></p>
                 </div>
@@ -21,22 +21,5 @@
             <div class="panel-cover--overlay cover-slate"></div>
         </div>
     </header>
-<script>
-let countTime = 10;
-
-function count() {
-
-  document.getElementById('timeout').textContent = countTime;
-  countTime -= 1;
-  if(countTime === 0){
-    location.href = 'https://fujianprovince.github.io/';
-  }
-  setTimeout(() => {
-    count();
-  }, 1000);
-}
-
-count();
-</script>
 </body>
 </html>
