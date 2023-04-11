@@ -7,6 +7,6 @@ while True:
     text=input("请输入你欲重复的文本：")
     time=input("请输入你欲重复的次数：")
     try:
-        print("输出:"+text*int(time))
+        print("输出："+text*int(time))
     except:
         print("你输入的次数不是非负整数，请重新输入！")
