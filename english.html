@@ -1,7 +1,22 @@
 <!DOCTYPE html>
+<head>
 <title>陈郑逸领域-英语词汇库</title>
-<br><center><h3>该词汇库收录范围为CET-4英语词汇，目前正在收录中。每刷新一次页面，以下就会随机出现一个英语词汇，以供记诵。</h3></center><br><br><br><br><br><br>
-<SCRIPT type=text/javascript>
+<style>
+p {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  text-shadow: 3px 3px 1px black;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
+</style>
+</head>
+<body id="body">
+<br><h3>该词汇库收录CET-4英语词汇，用于学习，仍在收录中。每刷新一次页面，会出现随机词汇和背景色。</h3><br><br>
+<script type=text/javascript async>
 var ChenZhengyi = Math.floor(Math.random()*254+1);
 czy = Array;
 czy[1] = 'abandon';
@@ -259,6 +274,17 @@ czy[252] = 'appreciative';
 czy[253] = 'approach';
 czy[254] = 'appropriate';
 var words = czy[ChenZhengyi]
-document.write('<center><b><span style="font-size:100px">'+words+'</span></b></center>')
-</SCRIPT>
+document.write('<b><p>'+words+'</p></b>')
+</script>
+<script type=text/javascript defer>
+var r = Math.floor(Math.random() *256);
+var g = Math.floor(Math.random() *256);
+var b = Math.floor(Math.random() *256);
+console.log(b);
+var color = "rgb("+r+","+g+","+b+")";
+console.log(color)
+var czy = document.getElementById("body")
+czy.style.background= color;
+</script>
+</body>
 </html>
