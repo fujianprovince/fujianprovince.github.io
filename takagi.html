@@ -54,6 +54,14 @@ a:active {
   transform: scale(1.3,1.3) translate(300px,0px);
   border: 5px solid #FEEEE3;
 }
+.game {
+  cursor: pointer;
+  width: 100px;
+  border: 5px solid #2C2F83;
+  position: fixed;  
+  bottom: 10px;  
+  right: 10px;  
+}
 .a {
   transition: all 1s ease-in-out;
 }
@@ -78,6 +86,21 @@ a {
 </style>
 </head>
 <body>
+<img id="ChenZhengyi" src="https://www.z4a.net/images/2023/10/04/A.png" onclick="changeImage()" class="game"> 
+<script>  
+    let imageCounter = 0;  
+    const images = ['https://www.z4a.net/images/2023/10/04/A.png', 'https://www.z4a.net/images/2023/10/04/B.png', 'https://www.z4a.net/images/2023/10/04/C.png', 'https://www.z4a.net/images/2023/10/04/D.png', 'https://www.z4a.net/images/2023/10/04/E.png'];  
+    function changeImage() {  
+        let myImage = document.getElementById('ChenZhengyi');  
+        imageCounter = (imageCounter + 1) % images.length;  
+        myImage.src = images[imageCounter];  
+        if (imageCounter === 3) { // 如果当前是图片D，则3秒后更改为图片A  
+            setTimeout(function() {   
+                myImage.src = images[0];  
+            }, 3000);  
+        }  
+    }  
+</script> 
 <header><h1>からかい上手の高木さん资源站</h1></header>
 <h1>BY <i><a href="https://fujianprovince.github.io/">fujianprovince.github.io</a></i></h1>
 <HR color=#2C2F83 SIZE=5>
@@ -1107,9 +1130,7 @@ a {
 <br>
 <h2><a href="https://takagi3.me/" target="_blank">からかい上手の高木さん官网</a></h2>
 <br>
-<h2><a href="https://www.aliyundrive.com/s/vCp75AcVZJr" target="_blank">からかい上手の高木さん 动画作品合集下载之一</a></h2>
-<br>
-<h2><a href="https://www.aliyundrive.com/s/cwSLKsxdcQM" target="_blank">からかい上手の高木さん 动画作品合集下载之二</a></h2>
+<h2><a href="https://www.aliyundrive.com/s/vCp75AcVZJr" target="_blank">からかい上手の高木さん 动画作品合集下载</a></h2>
 <br>
 <h2><a href="https://kdocs.cn/join/g5fdm1m" target="_blank">からかい上手の高木さん 漫画作品合集下载</a></h2>
 <br>
