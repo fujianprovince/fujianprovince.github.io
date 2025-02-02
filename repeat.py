@@ -9,4 +9,4 @@ while True:
     try:
         print("输出："+text*int(time))
     except:
-        print("你输入的次数不是非负整数，请重新输入！")
+        print("你输入的次数不合理，请重新输入！")
